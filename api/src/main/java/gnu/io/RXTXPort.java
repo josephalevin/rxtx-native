@@ -90,7 +90,7 @@ final public class RXTXPort extends SerialPort
 
 		if(debug ) 
 			z.reportln( "RXTXPort {}");
-		System.loadLibrary( "rxtxSerial" );
+		RXTXLibrary.loadLibrary( "rxtxSerial" );
 		Initialize();
 	}
 

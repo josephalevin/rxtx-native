@@ -71,7 +71,7 @@ final class RS485  extends  RS485Port {
 
 	static 
 	{
-		System.loadLibrary( "rxtxRS485" );
+		RXTXLibrary.loadLibrary( "rxtxRS485" );
 		Initialize();
 	}
 

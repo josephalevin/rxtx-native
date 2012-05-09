@@ -81,7 +81,7 @@ public class Zystem
 		Trent Jarvi taj@www.linux.org.uk
 		*/
 
-		//System.loadLibrary( "rxtxZystem" );
+		//RXTXLibrary.loadLibrary( "rxtxZystem" );
 		mode = SILENT_MODE;
 	}
 
