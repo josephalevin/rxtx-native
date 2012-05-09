@@ -4,16 +4,16 @@
 
     <groupId>org.rxtx</groupId>
     <artifactId>rxtx-native</artifactId>
-    <version>2.1.7</version>
+    <version>2.2pre2</version>
     <packaging>pom</packaging>
 
     <name>rxtx-native</name>
     
     <modules>
         <module>api</module>
-    <module>all</module>
-    <module>linux64</module>
-  </modules>       
+        <module>all</module>
+        <module>linux64</module>
+    </modules>       
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
