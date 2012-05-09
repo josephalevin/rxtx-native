@@ -5,7 +5,7 @@
     <parent>
         <groupId>org.rxtx</groupId>
         <artifactId>rxtx-native</artifactId>
-        <version>2.1.7</version>
+        <version>2.2pre2</version>
     </parent>
     
     <artifactId>rxtx-linux64</artifactId>
